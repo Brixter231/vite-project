@@ -16,8 +16,8 @@ const App: React.FC = () => {
         <Box 
           width='200px' 
           height='200px' 
-          backgroundColor='pink' 
-          borderColor='black' 
+          backgroundColor='red' 
+          borderColor='white' 
           text='CPEITEL' 
         />
       </div>
